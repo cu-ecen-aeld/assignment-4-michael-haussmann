@@ -9,7 +9,7 @@
 
 # we determined the verion number with "git show master" in the
 # assigment 3 and later repo
-AESD_ASSIGNMENTS_VERSION = 8d158517fde9daa9e55f297e443cc57df05560ba
+AESD_ASSIGNMENTS_VERSION = b6ba5952a5dcb5c9ab85826b5da0ad9c1f362e72
 
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
